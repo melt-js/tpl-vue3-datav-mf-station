@@ -1,0 +1,40 @@
+@font-face {
+  font-family: SarasaMonoTSCBoldItalic;
+  src: url('../fonts/SarasaMonoTSCBoldItalic.woff2');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Furore;
+  src: url('../fonts/Furore.woff2');
+}
+
+@font-face {
+  font-family: DsDigital;
+  src: url('../fonts/DsDigital.woff2');
+}
+
+@font-face {
+  font-family: DouYu;
+  src: url('../fonts/DouyuFont.woff2');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: PangMenZhengDaoBiaoTiTiMianFeiBan;
+  src: url('../fonts/PangMenZhengDaoBiaoTiTiMianFeiBan.woff2');
+  font-weight: normal;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: SarasaMonoTSCBoldItalic;
+}
